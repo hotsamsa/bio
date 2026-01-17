@@ -108,7 +108,7 @@ section.main img {
     height: 150px; 
     border-radius: 100%; 
     object-fit: cover; 
-    border: 10px solid #21222b93; 
+    border: 10px solid #0c1a1a; 
     cursor: pointer; 
     margin-bottom: 10px; 
     user-select: none;
@@ -266,3 +266,4 @@ a{
 .projectsbtn:hover .dropdown-content {
     display: block;
 }
+
