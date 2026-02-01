@@ -163,7 +163,7 @@ section.main ul li a:hover {
         width: 0; 
     } 
     to { 
-        width: 23.8em; 
+        width: 30.8em; 
     } 
 } 
  
@@ -266,4 +266,5 @@ a{
 .projectsbtn:hover .dropdown-content {
     display: block;
 }
+
 
